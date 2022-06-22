@@ -1,2 +1,2 @@
-# home-sky-by-blend
+# home-sky-by-blender
 Project Home and sky using blender
